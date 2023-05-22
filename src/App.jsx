@@ -69,7 +69,7 @@ export default function Home() {
                   }}
                   style={{ width: "100%", marginTop: "10px" }}
                 >
-                  Claim!
+                  <center>Claim!</center>
                 </Web3Button>
               </>
             ) : (
