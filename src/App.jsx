@@ -57,7 +57,7 @@ export default function Home() {
             />
             {address ? (
               <>
-                <p>You own {ownedNfts?.[0]?.quantityOwned || "0"}</p>
+                <center><p>You own {ownedNfts?.[0]?.quantityOwned || "0"}</p></center>
                 <Web3Button
                   contractAddress={editionDropAddress}
                   action={(contract) =>
