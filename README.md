@@ -73,3 +73,5 @@ Feel free to contribute to this repository by creating a pull request. If you ha
 ✔ Open this link to view your upload: https://ipfs-2.thirdwebcdn.com/ipfs/QmcKep4NVmrWFuKo7z2gwJqQSqTLqZWJyc5hTA5mDrejCt
 Done in 39.11s.
 ```
+
+## <p align="center">[🤖 Warlocks!](http://warlocks.netlify.app)
